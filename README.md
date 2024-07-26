@@ -1,1 +1,1 @@
-# VsCodeTips2
+# VsCodeProductivityTips

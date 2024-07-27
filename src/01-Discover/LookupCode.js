@@ -1,10 +1,7 @@
 import {abs, min, max, cube} from './MathLib';
 
 
-function LiveDemo ()
-{
-
-
+function LiveDemo () {
     var result;
     result = abs(-17);
     result= min(10,20);
@@ -12,11 +9,9 @@ function LiveDemo ()
     result = cube(7);
 
     result= Math.random();
-  
 }
 
-function AnotherLiveDemo()
-{
+function AnotherLiveDemo() {
     var result;
     result = abs(88);
 

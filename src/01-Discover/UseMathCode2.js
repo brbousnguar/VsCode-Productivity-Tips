@@ -1,7 +1,7 @@
 import {min, max} from './Learn-it-MathLib';
 
 function LiveDemoAgain () {
-function LiveDemoAgain () {
+{
 
     var result;
     result= min(10,20);

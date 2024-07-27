@@ -2,7 +2,7 @@
 function CalculatePaintNeeded(paintPerUnit, radius) {
   // rename symbol
   // extract constant
-  // extract method
+  // extract function
 
 
   var ar;

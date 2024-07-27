@@ -1,4 +1,5 @@
-// example for course, in production use the JavaScript Math 
+// example for the tips course only, 
+// in production use the JavaScript Math lib
 
 const PI = 3.1415;
 
@@ -6,11 +7,8 @@ const PI = 3.1415;
 // This is Euler's number, the base of natural logarithms.
 const E = 2.71828;
 
-
-
  function abs(candidateNumber) {
   //returns the absolute value of a number
-
   return (candidateNumber < 0 ? -candidateNumber : candidateNumber);
 
 }

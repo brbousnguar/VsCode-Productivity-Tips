@@ -1,4 +1,4 @@
-import {min, max} from './MathLib';
+import {min, max} from './Learn-it-MathLib';
 
 function LiveDemoAgain () {
 

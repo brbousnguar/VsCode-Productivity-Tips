@@ -1,4 +1,4 @@
-import {abs, min, max, cube} from './MathLib';
+import {abs, min, max, cube} from './Learn-it-MathLib';
 
 
 function LiveDemo () {

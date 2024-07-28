@@ -1,8 +1,5 @@
 function LiveDemo()
 {
-
-  
-  
   var bingo ;
   var jello;
   var arrayOfOddNumbers;

@@ -5,12 +5,9 @@
  
 UseFontLigatures()
 {
- // Fira Code is based on Fira Mono
- // It provides a nice contrast on ambiguous characters
-
- // I vs l vs | vs 1, O vs 0
- // braces []{}()
-
+ // Fira Code, Cascadia Code 
+ // and many other typefaces support 
+ // ligatures.
   var x = 10;
 
   // ==, === => -> :=

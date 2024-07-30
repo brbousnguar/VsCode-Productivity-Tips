@@ -8,7 +8,7 @@ function LiveDemo() {
   if (markup > 5. && wholesaleCost > 2000) {
       if (((markup + 2) % 10) == 0) {
       {
-          { markup = 20 }
+           markup = 20 
       }
  
     }

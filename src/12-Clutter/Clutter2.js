@@ -17,5 +17,5 @@ function ReDrawChangedElements() {
   var radius = 50;
   var ar;
   ar = 3.141592 * radius * radius;
-
+ 
 }
